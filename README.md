@@ -1,0 +1,2 @@
+# Defamation-lawsuit-Brian-James-topic
+ And as much as I loathe hate legal lawsuit police judges district attorneys I have been placed in a situation that I can't fix on my own which at that .1 must ask themselves why do we have a legal system trade in close in this document you will find facts and statements written by Jason Alexander chase last four 0283 combat veteran service member discharge honorably audible discharge father protected veteran since 80 county Idaho
