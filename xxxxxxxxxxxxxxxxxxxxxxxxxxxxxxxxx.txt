@@ -1,0 +1,97 @@
+          <select id="level-0-category" name="level-0-category" class="browser-default category-select" size="10" style="width: 100%; height: 100%;">
+                            <option value="1" data-slug="bass" data-redirect-url="https://samplefocus.com/categories/bass">Bass</option>
+                            <option value="16" data-slug="bowed-string" data-redirect-url="https://samplefocus.com/categories/bowed-string">Bowed string</option>
+                            <option value="11" data-slug="brass" data-redirect-url="https://samplefocus.com/categories/brass">Brass</option>
+                            <option value="33" data-slug="drums" data-redirect-url="https://samplefocus.com/categories/drums">Drums</option>
+                            <option value="19" data-slug="field-recordings" data-redirect-url="https://samplefocus.com/categories/field-recordings">Field recordings</option>
+                            <option value="20" data-slug="guitar" data-redirect-url="https://samplefocus.com/categories/guitar">Guitar</option>
+                            <option value="23" data-slug="keys" data-redirect-url="https://samplefocus.com/categories/keys">Keys</option>
+                            <option value="32" data-slug="pads-atmospheres" data-redirect-url="https://samplefocus.com/categories/pads-atmospheres">Pads &amp; atmospheres</option>
+                            <option value="48" data-slug="plucked-string" data-redirect-url="https://samplefocus.com/categories/plucked-string">Plucked string</option>
+                            <option value="54" data-slug="sound-effects" data-redirect-url="https://samplefocus.com/categories/sound-effects">Sound effects</option>
+                            <option value="62" data-slug="synthesizers" data-redirect-url="https://samplefocus.com/categories/synthesizers">Synthesizers</option>
+                            <option value="63" data-slug="vocals" data-redirect-url="https://samplefocus.com/categories/vocals">Vocals</option>
+                            <option value="68" data-slug="woodwinds" data-redirect-url="https://samplefocus.com/categories/woodwinds">Woodwinds</option>
+                        </select>
+                        <select id="level-1-category" name="level-1-category" class="browser-default category-select" size="10" style="width: 100%; height: 100%;">
+                            <option value="64" data-slug="acappelas" data-redirect-url="https://samplefocus.com/categories/acappelas">Acappelas</option>
+                            <option value="24" data-slug="accordion" data-redirect-url="https://samplefocus.com/categories/accordion">Accordion</option>
+                            <option value="21" data-slug="acoustic-guitar" data-redirect-url="https://samplefocus.com/categories/acoustic-guitar">Acoustic guitar</option>
+                            <option value="6" data-slug="analog-synth-bass" data-redirect-url="https://samplefocus.com/categories/analog-synth-bass">Analog synth bass</option>
+                            <option value="69" data-slug="bagpipes" data-redirect-url="https://samplefocus.com/categories/bagpipes">Bagpipes</option>
+                            <option value="49" data-slug="banjo" data-redirect-url="https://samplefocus.com/categories/banjo">Banjo</option>
+                            <option value="10" data-slug="bass-line" data-redirect-url="https://samplefocus.com/categories/bass-line">Bass line</option>
+                            <option value="70" data-slug="bassoon" data-redirect-url="https://samplefocus.com/categories/bassoon">Bassoon</option>
+                            <option value="94" data-slug="bells" data-redirect-url="https://samplefocus.com/categories/bells">Bells</option>
+                            <option value="46" data-slug="breakbeat" data-redirect-url="https://samplefocus.com/categories/breakbeat">Breakbeat</option>
+                            <option value="17" data-slug="cello" data-redirect-url="https://samplefocus.com/categories/cello">Cello</option>
+                            <option value="36" data-slug="claps" data-redirect-url="https://samplefocus.com/categories/claps">Claps</option>
+                            <option value="71" data-slug="clarinet" data-redirect-url="https://samplefocus.com/categories/clarinet">Clarinet</option>
+                            <option value="25" data-slug="clavichord" data-redirect-url="https://samplefocus.com/categories/clavichord">Clavichord</option>
+                            <option value="26" data-slug="clavinet" data-redirect-url="https://samplefocus.com/categories/clavinet">Clavinet</option>
+                            <option value="39" data-slug="closed-hi-hats" data-redirect-url="https://samplefocus.com/categories/closed-hi-hats">Closed hi-hats</option>
+                            <option value="43" data-slug="cowbell" data-redirect-url="https://samplefocus.com/categories/cowbell">Cowbell</option>
+                            <option value="41" data-slug="crashes" data-redirect-url="https://samplefocus.com/categories/crashes">Crashes</option>
+                            <option value="7" data-slug="digital-synth-bass" data-redirect-url="https://samplefocus.com/categories/digital-synth-bass">Digital synth bass</option>
+                            <option value="8" data-slug="distorted-bass" data-redirect-url="https://samplefocus.com/categories/distorted-bass">Distorted bass</option>
+                            <option value="22" data-slug="electric-guitar" data-redirect-url="https://samplefocus.com/categories/electric-guitar">Electric guitar</option>
+                            <option value="93" data-slug="electronic" data-redirect-url="https://samplefocus.com/categories/electronic">Electronic</option>
+                            <option value="92" data-slug="explosions" data-redirect-url="https://samplefocus.com/categories/explosions">Explosions</option>
+                            <option value="2" data-slug="fingered-bass" data-redirect-url="https://samplefocus.com/categories/fingered-bass">Fingered bass</option>
+                            <option value="89" data-slug="flugel-horn" data-redirect-url="https://samplefocus.com/categories/flugel-horn">Flugel horn</option>
+                            <option value="72" data-slug="flute" data-redirect-url="https://samplefocus.com/categories/flute">Flute</option>
+                            <option value="47" data-slug="found-objects" data-redirect-url="https://samplefocus.com/categories/found-objects">Found objects</option>
+                            <option value="13" data-slug="french-horn" data-redirect-url="https://samplefocus.com/categories/french-horn">French horn</option>
+                            <option value="50" data-slug="harp" data-redirect-url="https://samplefocus.com/categories/harp">Harp</option>
+                            <option value="27" data-slug="harpischord" data-redirect-url="https://samplefocus.com/categories/harpischord">Harpischord</option>
+                            <option value="34" data-slug="kicks" data-redirect-url="https://samplefocus.com/categories/kicks">Kicks</option>
+                            <option value="45" data-slug="latin-african" data-redirect-url="https://samplefocus.com/categories/latin-african">Latin &amp; african</option>
+                            <option value="84" data-slug="lead" data-redirect-url="https://samplefocus.com/categories/lead">Lead</option>
+                            <option value="57" data-slug="machines" data-redirect-url="https://samplefocus.com/categories/machines">Machines</option>
+                            <option value="51" data-slug="mandolin" data-redirect-url="https://samplefocus.com/categories/mandolin">Mandolin</option>
+                            <option value="55" data-slug="metal" data-redirect-url="https://samplefocus.com/categories/metal">Metal</option>
+                            <option value="82" data-slug="mixed" data-redirect-url="https://samplefocus.com/categories/mixed">Mixed</option>
+                            <option value="56" data-slug="nature" data-redirect-url="https://samplefocus.com/categories/nature">Nature</option>
+                            <option value="58" data-slug="noise" data-redirect-url="https://samplefocus.com/categories/noise">Noise</option>
+                            <option value="73" data-slug="oboe" data-redirect-url="https://samplefocus.com/categories/oboe">Oboe</option>
+                            <option value="74" data-slug="ocarina" data-redirect-url="https://samplefocus.com/categories/ocarina">Ocarina</option>
+                            <option value="38" data-slug="open-hi-hats" data-redirect-url="https://samplefocus.com/categories/open-hi-hats">Open hi-hats</option>
+                            <option value="28" data-slug="organ" data-redirect-url="https://samplefocus.com/categories/organ">Organ</option>
+                            <option value="61" data-slug="other-fx" data-redirect-url="https://samplefocus.com/categories/other-fx">Other fx</option>
+                            <option value="90" data-slug="other-plucked" data-redirect-url="https://samplefocus.com/categories/other-plucked">Other plucked</option>
+                            <option value="91" data-slug="other-winds" data-redirect-url="https://samplefocus.com/categories/other-winds">Other winds</option>
+                            <option value="29" data-slug="piano" data-redirect-url="https://samplefocus.com/categories/piano">Piano</option>
+                            <option value="75" data-slug="piccolo" data-redirect-url="https://samplefocus.com/categories/piccolo">Piccolo</option>
+                            <option value="3" data-slug="picked-bass" data-redirect-url="https://samplefocus.com/categories/picked-bass">Picked bass</option>
+                            <option value="76" data-slug="recorder" data-redirect-url="https://samplefocus.com/categories/recorder">Recorder</option>
+                            <option value="30" data-slug="rhodes-piano" data-redirect-url="https://samplefocus.com/categories/rhodes-piano">Rhodes piano</option>
+                            <option value="40" data-slug="rides" data-redirect-url="https://samplefocus.com/categories/rides">Rides</option>
+                            <option value="77" data-slug="saxophone" data-redirect-url="https://samplefocus.com/categories/saxophone">Saxophone</option>
+                            <option value="87" data-slug="shaker" data-redirect-url="https://samplefocus.com/categories/shaker">Shaker</option>
+                            <option value="59" data-slug="shots" data-redirect-url="https://samplefocus.com/categories/shots">Shots</option>
+                            <option value="65" data-slug="singing" data-redirect-url="https://samplefocus.com/categories/singing">Singing</option>
+                            <option value="52" data-slug="sitar" data-redirect-url="https://samplefocus.com/categories/sitar">Sitar</option>
+                            <option value="4" data-slug="slapped-bass" data-redirect-url="https://samplefocus.com/categories/slapped-bass">Slapped bass</option>
+                            <option value="35" data-slug="snares" data-redirect-url="https://samplefocus.com/categories/snares">Snares</option>
+                            <option value="66" data-slug="spoken" data-redirect-url="https://samplefocus.com/categories/spoken">Spoken</option>
+                            <option value="9" data-slug="sub-bass" data-redirect-url="https://samplefocus.com/categories/sub-bass">Sub bass</option>
+                            <option value="79" data-slug="synth-bowed-string" data-redirect-url="https://samplefocus.com/categories/synth-bowed-string">Synth bowed string</option>
+                            <option value="78" data-slug="synth-brass" data-redirect-url="https://samplefocus.com/categories/synth-brass">Synth brass</option>
+                            <option value="88" data-slug="synth-drums" data-redirect-url="https://samplefocus.com/categories/synth-drums">Synth drums</option>
+                            <option value="85" data-slug="synth-fx" data-redirect-url="https://samplefocus.com/categories/synth-fx">Synth fx</option>
+                            <option value="80" data-slug="synth-guitar" data-redirect-url="https://samplefocus.com/categories/synth-guitar">Synth guitar</option>
+                            <option value="81" data-slug="synth-keys" data-redirect-url="https://samplefocus.com/categories/synth-keys">Synth keys</option>
+                            <option value="83" data-slug="synth-plucked-string" data-redirect-url="https://samplefocus.com/categories/synth-plucked-string">Synth plucked string</option>
+                            <option value="86" data-slug="synth-woodwind" data-redirect-url="https://samplefocus.com/categories/synth-woodwind">Synth woodwind</option>
+                            <option value="44" data-slug="tambourines" data-redirect-url="https://samplefocus.com/categories/tambourines">Tambourines</option>
+                            <option value="37" data-slug="toms" data-redirect-url="https://samplefocus.com/categories/toms">Toms</option>
+                            <option value="15" data-slug="trombone" data-redirect-url="https://samplefocus.com/categories/trombone">Trombone</option>
+                            <option value="12" data-slug="trumpet" data-redirect-url="https://samplefocus.com/categories/trumpet">Trumpet</option>
+                            <option value="14" data-slug="tuba" data-redirect-url="https://samplefocus.com/categories/tuba">Tuba</option>
+                            <option value="53" data-slug="ukulele" data-redirect-url="https://samplefocus.com/categories/ukulele">Ukulele</option>
+                            <option value="5" data-slug="upright-bass" data-redirect-url="https://samplefocus.com/categories/upright-bass">Upright bass</option>
+                            <option value="18" data-slug="violin" data-redirect-url="https://samplefocus.com/categories/violin">Violin</option>
+                            <option value="67" data-slug="vocal-fx" data-redirect-url="https://samplefocus.com/categories/vocal-fx">Vocal fx</option>
+                            <option value="60" data-slug="water" data-redirect-url="https://samplefocus.com/categories/water">Water</option>
+                            <option value="42" data-slug="wood-blocks" data-redirect-url="https://samplefocus.com/categories/wood-blocks">Wood blocks</option>
+                            <option value="31" data-slug="wurlitzer-piano" data

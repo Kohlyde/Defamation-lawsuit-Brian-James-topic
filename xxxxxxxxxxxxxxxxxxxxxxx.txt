@@ -1,0 +1,56 @@
+level-0 bass  => 
+    level-1 Analog Synth Bass
+    level-1 Bass Line
+    level-1 Digital Synth Bass
+    level-1 Distorted Bass
+    level-1 fingered Bass
+    level-1 Picked Bass
+    level-1 Slapped Bass
+    level-1 Sub Bass
+    level-1 Upright Bass 
+
+level-0 Bowed String  =>  
+    level-1 Cello 
+    level-1 Synth Bowed String
+    level-1 Violin
+
+
+level-0 Brass  =>  
+    level-1 Flugel Horn
+    level-1 French Horn
+    level-1 Synth Brass
+    level-1 Trombone
+    level-1 Trumpet
+    level-1 Tuba
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
